@@ -1,4 +1,4 @@
-# Industry Classification Using Scikit-Learn Pipeline  
+# **Semiconductor Industry Classification Using Machine Learning**  
 
 ## **Overview**  
 This project implements **industry classification** using a **scikit-learn pipeline** that includes data preprocessing steps. Multiple classifiers are implemented for comparison to determine the best-performing model.  
